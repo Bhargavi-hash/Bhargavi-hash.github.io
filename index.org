@@ -12,6 +12,7 @@
   - [[./biography/index.org][biography]]
   - [[./contact/index.org][contact]]
   - [[./calendar/index.org][calendar]]
+  - [[./projects.org][projects]]
 
 #+ATTR_HTML: :alt pic :title venkatesh :align left :width 200%
 [[./images/venk-poovar-cropped.jpg]]
