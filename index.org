@@ -26,6 +26,13 @@
 Institute of Information Technology, Hyderabad,
 India.
 
+<<<<<<< HEAD
+ heading
+    :CUSTOM_ID:   edu
+  :END
+  
+=======
+>>>>>>> 22c49c3eb68e62bf8e18fc1c2fe14db617d95536
 ** Interests
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: heading
