@@ -26,21 +26,6 @@
 Institute of Information Technology, Hyderabad,
 India.
 
-** Education
-  :PROPERTIES:
-    :HTML_CONTAINER_CLASS: heading
-    :CUSTOM_ID:   edu
-  :END:
-  - BTech Computer Science and Engg.:  IIT Kanpur 1985
-
-
-  - MTech Computer Science and Engg.:  IIT Madras 1987
-
-
-  - PhD   Computer Science:  Indiana University,
-    Bloomington, USA, 2002
-
-
 ** Interests
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: heading
