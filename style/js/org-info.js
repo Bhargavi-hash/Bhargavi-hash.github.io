@@ -212,7 +212,7 @@ var a=b.N.J-1;while(a>=0&&b.S[a].DEPTH>=e){if(b.S[a].DEPTH==e){b.go(a);return;}-
 b.ss(b.N.J);}}else{if("W"==c){b.pV(b.N.J);b.R.DRT=true;b.R_STATE=OrgNode.SU;b.tG();
 b.tG();b.tG();window.print();}else{if("f"==c){if(b.VIEW!=b.INFO_VIEW){b.N.fold();
 b.N.D.scrollIntoView(true);}}else{if("F"==c){if(b.VIEW!=b.INFO_VIEW){b.tG();b.N.D.scrollIntoView(true);
-}}else{if("?"==c||"Â¿"==c){b.showHelp();}else{if("C"==c){if(b.ST.length){b.showTagsIndex();
+}}else{if("?"==c||"¿"==c){b.showHelp();}else{if("C"==c){if(b.ST.length){b.showTagsIndex();
 }else{b.warn("No Tags found.");}}else{if("H"==c&&b.LINK_HOME){window.document.location.href=b.LINK_HOME;
 }else{if("h"==c&&b.LINK_UP){window.document.location.href=b.LINK_UP;}else{if("l"==c){if(""!=b.OCCUR){b.sR(b.RC_H,"Choose HTML-link type: 's' = section, 'o' = occur");
 }else{b.sR(c,"HTML-link:",'<a href="'+b.BU+b.dT()+'">'+document.title+", Sec. '"+b.rT(b.N.H.innerHTML)+"'</a>","C-c to copy, ");

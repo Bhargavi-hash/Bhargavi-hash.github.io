@@ -2,17 +2,31 @@ body {
    margin-left: 30%; 
    margin-right: 10%; 
    margin-top: 1%;
-   font-family: Verdana, sans-serif; 
+   font-family: Helvetica, sans-serif; 
 /*   font-size: 100%; */
-   color: gray;
+   color: #566573;
 }
 
 
 /* colors */
-h1, h2, h3, h4 { 
-   color: #000066;   /* blue */
+h1 { 
+   color: #C70039 ;   /* maroon */
 /*   color: #006600;   green */
    margin-bottom: 1em;
+   font-family: cursive;
+   font-size: 70px;
+   text-shadow: 1px 1px 2px black, 0 0 25px #34495e, 0 0 5px #99a3a4;
+}
+
+h2 {
+    color:   #1a5276  ; /* blue */
+    margin-bottom: 1em;
+    font-family: Georgia, serif;
+}
+
+h3 {
+    color:   #21618c  ;
+    margin-bottom: 1em;
 }
 
 a:link {
@@ -31,7 +45,7 @@ div.menu {
   top: 0em;
   left: 2em;
   right: auto;
-  margin: 0;
+  margin: 1em;
 /*  border: 1px, solid, red; */
   width: 8em; 
 }
@@ -42,7 +56,7 @@ div.menu  h2 {
 }
 
 div.menu  li {
-  margin-left: -1.5em; 
+    margin-left: -1.5em;
   padding: 0.3em 0.4em;
   font-family: Arial, sans-serif;
   list-style: none;
@@ -141,6 +155,25 @@ div.announcements ol li a:hover {
 
 div.main  h2 {
   display: none;
+}
+
+/*******************************************************/
+/* posts */
+/*******************************************************/
+
+div.posts {
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 10px 16px rgba(0,0,0,0.2);
+    padding: 20px;
+    margin: 10px;
+    font-family: comic-sans;
+}
+
+div.posts h2{
+    font-family: brush-script;
+    font-weight: bold;
+    color:  #b9770e ;
 }
 
 

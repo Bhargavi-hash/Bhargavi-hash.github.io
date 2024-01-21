@@ -1,6 +1,0 @@
-#+title: Projects
-
-* Virtual Labs for Operating Systems
-* Algodynamics
-
-.... So on..
