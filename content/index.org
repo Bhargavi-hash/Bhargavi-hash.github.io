@@ -7,7 +7,7 @@
    :CUSTOM_ID: menu
  :END:
 
-  - [[./index.org][home]
+  - [[./index.org][home]]
   - [[./education/education.org][education]]
   - [[./garden/garden.org][gardening]]
   - [[./novels/novels.org][novels]]
