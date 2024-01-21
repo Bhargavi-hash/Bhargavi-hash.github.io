@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-01-21 Sun 14:58 -->
+<!-- 2024-01-21 Sun 18:45 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bhargavi Kurukunda</title>
@@ -253,12 +253,12 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-menu">
 <ul class="org-ul">
 <li><a href="./home.html">home</a></li>
-<li><a href="./research/index.html">research</a></li>
-<li><a href="./teaching/index.html">teaching</a></li>
-<li><a href="./biography/index.html">biography</a></li>
+<li><a href="./education/education.html">education</a></li>
+<li><a href="./garden/garden.html">gardening</a></li>
+<li><a href="./novels/novels.html">novels</a></li>
 <li><a href="./contact/index.html">contact</a></li>
-<li><a href="./calendar/index.html">calendar</a></li>
 </ul>
+
 
 
 <div class="figure">
@@ -288,26 +288,24 @@ My favorite novel? - The Game of Thrones <br>
 My favorite hobby? - Painting or anything that helps me express myself (I am not good with words . Hehe&#x2026;) <br>
 My favorite sport? - Table Tennis <br>
 </p>
+</div>
+</div>
 
-
+<div id="outline-container-org8e150cf" class="outline-2">
+<h2 id="org8e150cf">My Thoughts &#x2026;</h2>
+</div>
+<div id="outline-container-org4b703e9" class="outline-2 posts">
+<h2 id="p001">My first post</h2>
+<div class="outline-text-2" id="text-p001">
 <p>
-<b>Warning: Serious stuff below</b>
+Hello world! Read my thoughts&#x2026; Here goes my first post. Hurray!!
 </p>
-</div>
-</div>
-
-<div id="outline-container-org15dc26e" class="outline-2">
-<h2 id="org15dc26e">Education</h2>
-<div class="outline-text-2" id="text-org15dc26e">
-</div>
-<div id="outline-container-org8d59194" class="outline-4">
-<h4 id="org8d59194">Internation Institute of Information Technology, Hyderabad - B.tech in CSE</h4>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Bhargavi Kurukunda</p>
-<p class="date">Created: 2024-01-21 Sun 14:58</p>
+<p class="date">Created: 2024-01-21 Sun 18:45</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

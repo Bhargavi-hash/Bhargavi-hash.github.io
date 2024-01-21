@@ -33,5 +33,10 @@ My favorite hobby? - Painting or anything that helps me express myself (I am not
 My favorite sport? - Table Tennis \\
 
 * My Thoughts ...
+* My first post
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: posts
+    :CUSTOM_ID: p001
+  :END:
 
-
+Hello world! Read my thoughts... Here goes my first post. Hurray!!
