@@ -1,0 +1,50 @@
+/* See centering tricks at http://www.w3.org/Style/Examples/007/center#block  */
+
+#portraitframe {
+   margin-left : -5%;
+   margin-right : 1em;
+   margin-bottom : 2em;
+   float : left;
+   width : auto;
+   height: auto;
+ }
+
+/* #text-div { */
+
+/*    width : 5em; */
+/*    height: 5em; */
+
+/* /\*   border-style: solid;  *\/ */
+/*    border-width: thin; */
+/*    border-color: red; */
+
+/* /\*   display: table-cell; *\/ */
+/* /\*   vertical-align: middle; *\/ */
+/*  } */
+
+#load-photo {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 100px
+
+   width: 5em;
+   height: 2.5em;
+}
+
+
+img.picture {
+
+    display: block;
+    border-radius: 100px
+   margin-left: 0; /* auto; */
+    margin-right:0; /* auto; */
+    margin-bottom: 1em;
+   height: 12em; 
+}
+
+ul.details>li {
+ list-style : none;
+ margin-bottom: 0.3em;
+}
+

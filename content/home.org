@@ -1,0 +1,37 @@
+#+title: Bhargavi Kurukunda
+#+SETUPFILE: ./org-templates/level-0.org
+
+* Menu
+ :PROPERTIES:
+   :HTML_CONTAINER_CLASS: menu
+   :CUSTOM_ID: menu
+ :END:
+
+  - [[./home.org][home]]
+  - [[./education/education.org][education]]
+  - [[./garden/garden.org][gardening]]
+  - [[./novels/novels.org][novels]]
+  - [[./contact/index.org][contact]]
+
+
+#+ATTR_HTML: :alt pic :title bhargavi :align left :width 200%
+[[./images/bhargavi.jpg]]
+
+* Main
+ :PROPERTIES:
+   :HTML_CONTAINER_CLASS: main
+   :CUSTOM_ID: main
+ :END:
+
+* About Me... 
+Hmm? Let's see... I write a lot and sleep a lot. Somewhere in between introvert and extrovert.
+
+My favorite movie? - ... None \\
+My favorite food? - Upma Dosa \\
+My favorite novel? - The Game of Thrones \\
+My favorite hobby? - Painting or anything that helps me express myself (I am not good with words . Hehe...) \\
+My favorite sport? - Table Tennis \\
+
+* My Thoughts ...
+
+
