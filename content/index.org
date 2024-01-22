@@ -39,4 +39,10 @@ My favorite sport? - Table Tennis \\
     :CUSTOM_ID: p001
   :END:
 
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: tags
+    :CUSTOM_ID: politics
+  :END:
+  politics
+
 Hello world! Read my thoughts... Here goes my first post. Hurray!!

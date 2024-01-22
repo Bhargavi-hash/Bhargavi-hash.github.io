@@ -177,6 +177,15 @@ div.posts h2{
     color:  #b9770e ;
 }
 
+/************************************/
+/* Tags */
+div.tags {
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+    margin: 3px;
+}
+
 
 /* *********************************************************/
 /* Postamble */
