@@ -180,7 +180,7 @@ div.posts h2{
 /************************************/
 /* Tags */
 /************************************/
-div.tags {
+div.posts.tags {
     border: none;
     border-radius: 20px;
     padding: 8px;
