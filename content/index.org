@@ -38,11 +38,11 @@ My favorite sport? - Table Tennis \\
     :HTML_CONTAINER_CLASS: posts
     :CUSTOM_ID: p001
   :END:
-
+  
+  Poem
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: tags
     :CUSTOM_ID: politics
-    politics
   :END:
   
 
