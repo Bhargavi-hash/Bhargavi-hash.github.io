@@ -168,13 +168,13 @@ div.posts {
     padding: 20px;
     margin: 10px;
     font-family: comic-sans;
-    background-color: whitesmoke
+    background-color:  #f1c40f ;
 }
 
 div.posts h2{
     font-family: brush-script;
     font-weight: bold;
-    color:  #b9770e ;
+    color:  white ;
 }
 
 /************************************/
