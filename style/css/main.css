@@ -168,7 +168,7 @@ div.posts {
     padding: 20px;
     margin: 10px;
     font-family: comic-sans;
-    background-color:  #f1c40f ;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%) ;
 }
 
 div.posts h2{
