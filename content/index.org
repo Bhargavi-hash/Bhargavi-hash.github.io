@@ -33,7 +33,7 @@ My favorite hobby? - Painting or anything that helps me express myself (I am not
 My favorite sport? - Table Tennis \\
 
 * My Thoughts ...
-* My first post
+* A beautiful song for you all :)
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: posts
     :CUSTOM_ID: p001
@@ -45,10 +45,61 @@ My favorite sport? - Table Tennis \\
     :CUSTOM_ID: politics
   :END:
   
+22 Jan 2024
 
-Hello world! Read my thoughts... Here goes my first post. Hurray!!
+I was watching a movie and chilling out with my mother when I heard this super beautiful song. 
 
-poem
+Evari hrudaya swaramu ido
+Idi evari peru palikinado.. 
+Meghamula maruthundo.. 
+Manchu pallakine moyanundo.. 
+
+Meghapoola radhamu ido
+Madhi theneluru ganamido
+Theta telugu kavita ido.. 
+Toli premaloni mahima ido.. 
+
+Evari hrudaya swaramu ido
+Idi evari peru palikinado.. 
+Evari hrudaya swaramu ido
+Idi evari peru palikinado.. 
+
+Meghamula maruthundo.. 
+Manchu pallakine moyanundo
+Meghamula maruthundo.. 
+Manchu pallakine moyanundo
+
+Charanam: 1
+Suprabhata swarajharilaa
+Kadalanchu paina chiru alalaa... Aa..
+ Suprabhata swarajharilaa
+Kadalanchu paina chiru alalaa... Aa..
+
+Mavichiguru manjarila
+Na manasu meete raagamidaa
+
+Neeli ningi tholakarila
+Ganu poola gandhamido.. 
+Andhamaina lokamella naaku sonthamavutunnado.. 
+
+Charanam 2
+Theeyanaina chinuku ido
+Chali vela udaya kiranamido
+Kanulu kanani rutuvu ido.. 
+Yeda gaaya manpu kaalamido
+Kokilamma kuhukuhuna
+Purivippu nemali pinchamunaa
+Andhenunna bharamunaa.... 
+Madi aadi paadu vainamido.. 
+Chanti papa kilakilala
+Amma padutunna lalanala
+Muddu cheyu muripemuga
+Naa chethikandu varamu ido.. 
+
+Neeli ningi tholakarila
+Ganu poola gandhamido.. 
+Andhamaina lokamella naaku sonthamavutunnado..
+
 :PROPERTIES:
   :HTML_CONTAINER_CLASS: tags
   :CUSTOM_ID: poem
