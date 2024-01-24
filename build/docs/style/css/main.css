@@ -167,12 +167,12 @@ div.posts {
     box-shadow: 0 10px 16px rgba(0,0,0,0.2);
     padding: 20px;
     margin: 10px;
-    font-family: Bradley Hand, cursives;
+    font-family: Bradley Hand, cursive;
     background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%) ;
 }
 
 div.posts h2{
-    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     font-weight: bold;
     color:  #C70039 ;
 }
