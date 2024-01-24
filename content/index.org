@@ -39,7 +39,7 @@ My favorite sport? - Table Tennis \\
     :CUSTOM_ID: p001
   :END:
   
-  Poem
+  *** Poem
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: tags
     :CUSTOM_ID: politics
@@ -49,58 +49,55 @@ My favorite sport? - Table Tennis \\
 
 I was watching a movie and chilling out with my mother when I heard this super beautiful song. 
 
-Evari hrudaya swaramu ido
-Idi evari peru palikinado.. 
-Meghamula maruthundo.. 
-Manchu pallakine moyanundo.. 
+Evari hrudaya swaramu ido\\
+Idi evari peru palikinado.. \\
+Meghamula maruthundo.. \\
+Manchu pallakine moyanundo.. \\
 
-Meghapoola radhamu ido
-Madhi theneluru ganamido
-Theta telugu kavita ido.. 
-Toli premaloni mahima ido.. 
+Meghapoola radhamu ido \\
+Madhi theneluru ganamido \\
+Theta telugu kavita ido.. \\
+Toli premaloni mahima ido.. \\
 
-Evari hrudaya swaramu ido
-Idi evari peru palikinado.. 
-Evari hrudaya swaramu ido
-Idi evari peru palikinado.. 
+Evari hrudaya swaramu ido \\
+Idi evari peru palikinado.. \\
+Evari hrudaya swaramu ido \\
+Idi evari peru palikinado.. \\
 
-Meghamula maruthundo.. 
-Manchu pallakine moyanundo
-Meghamula maruthundo.. 
-Manchu pallakine moyanundo
+Meghamula maruthundo.. \\
+Manchu pallakine moyanundo \\
+Meghamula maruthundo.. \\
+Manchu pallakine moyanundo \\
 
-Charanam: 1
-Suprabhata swarajharilaa
-Kadalanchu paina chiru alalaa... Aa..
- Suprabhata swarajharilaa
-Kadalanchu paina chiru alalaa... Aa..
+Charanam: 1 \\
+Suprabhata swarajharilaa \\
+Kadalanchu paina chiru alalaa... Aa.. \\
+ Suprabhata swarajharilaa \\
+Kadalanchu paina chiru alalaa... Aa.. \\
 
-Mavichiguru manjarila
-Na manasu meete raagamidaa
+Mavichiguru manjarila \\
+Na manasu meete raagamidaa \\
 
-Neeli ningi tholakarila
-Ganu poola gandhamido.. 
-Andhamaina lokamella naaku sonthamavutunnado.. 
+Neeli ningi tholakarila \\
+Ganu poola gandhamido.. \\
+Andhamaina lokamella naaku sonthamavutunnado.. \\
 
-Charanam 2
-Theeyanaina chinuku ido
-Chali vela udaya kiranamido
-Kanulu kanani rutuvu ido.. 
-Yeda gaaya manpu kaalamido
-Kokilamma kuhukuhuna
-Purivippu nemali pinchamunaa
-Andhenunna bharamunaa.... 
-Madi aadi paadu vainamido.. 
-Chanti papa kilakilala
-Amma padutunna lalanala
-Muddu cheyu muripemuga
-Naa chethikandu varamu ido.. 
+Charanam 2 \\
+Theeyanaina chinuku ido \\
+Chali vela udaya kiranamido \\
+Kanulu kanani rutuvu ido.. \\
+Yeda gaaya manpu kaalamido \\
+Kokilamma kuhukuhuna \\
+Purivippu nemali pinchamunaa \\
+Andhenunna bharamunaa.... \\
+Madi aadi paadu vainamido.. \\
+Chanti papa kilakilala \\
+Amma padutunna lalanala \\
+Muddu cheyu muripemuga \\
+Naa chethikandu varamu ido.. \\ 
 
-Neeli ningi tholakarila
-Ganu poola gandhamido.. 
-Andhamaina lokamella naaku sonthamavutunnado..
+Neeli ningi tholakarila \\
+Ganu poola gandhamido.. \\
+Andhamaina lokamella naaku sonthamavutunnado.. \\
 
-:PROPERTIES:
-  :HTML_CONTAINER_CLASS: tags
-  :CUSTOM_ID: poem
-:END:
+
