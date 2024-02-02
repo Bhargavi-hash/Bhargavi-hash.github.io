@@ -1,8 +1,29 @@
 #+TITLE:  
 
-- [[file:index.org][Bhargavi Kurukunda]]
+- [[file:fp-poem.org][Functional Programming for no Rhyme or Reason]]
+- [[file:index.org][Venkatesh Choppella]]
+- [[file:projects.org][projects]]
+- [[file:thanks.org][thanks]]
+- bio
+  - [[file:bio/short.org][Venkatesh Choppella]]
+  - [[file:bio/headers.org][headers]]
+- biography
+  - [[file:biography/index.org][Venkatesh Choppella]]
+  - [[file:biography/org.org][org]]
+- calendar
+  - [[file:calendar/index.org][Venkatesh Choppella calendar]]
+- contact
+  - [[file:contact/index.org][Venkatesh Choppella Contact and Office Hours]]
 - org-templates
   - [[file:org-templates/level-0.org][level-0]]
   - [[file:org-templates/level-1.org][level-1]]
   - [[file:org-templates/level-2.org][level-2]]
   - [[file:org-templates/level-3.org][level-3]]
+- research
+  - [[file:research/index.org][Venkatesh Choppella Research]]
+  - [[file:research/report.org][Venkatesh Choppella Research Overview]]
+  - [[file:research/one-page.org][Venkatesh Research Activities and Interests]]
+  - research-interests
+    - [[file:research/research-interests/index.org][Venkatesh Choppella:  Research Interests]]
+- teaching
+  - [[file:teaching/index.org][Venkatesh Choppella Teaching]]
