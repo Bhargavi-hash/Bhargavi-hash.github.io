@@ -61,7 +61,7 @@ div.menu li a:hover {
    background: white; 
    color: #FFCC33; } */
 
-   #menu ul {
+div.menu ul {
 		-moz-user-select: none;
 		-webkit-user-select: none;
 		-ms-user-select: none;
@@ -77,7 +77,7 @@ div.menu li a:hover {
 		text-transform: uppercase;
 	}
 
-		#menu ul a, #menu ul span {
+		div.menu ul a, div.menu ul span {
 			border-bottom: 0;
 			color: inherit;
 			cursor: pointer;
@@ -86,11 +86,11 @@ div.menu li a:hover {
 			padding: 0.625em 0;
 		}
 
-			#menu ul a:hover, #menu ul span:hover {
+			div.menu ul a:hover, div.menu ul span:hover {
 				color: #f56a6a;
 			}
 
-			#menu ul a.opener, #menu ul span.opener {
+			div.menu ul a.opener, div.menu ul span.opener {
 				-moz-transition: color 0.2s ease-in-out;
 				-webkit-transition: color 0.2s ease-in-out;
 				-ms-transition: color 0.2s ease-in-out;
@@ -100,7 +100,7 @@ div.menu li a:hover {
 				position: relative;
 			}
 
-				#menu ul a.opener:before, #menu ul span.opener:before {
+				div.menu ul a.opener:before, div.menu ul span.opener:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
 					font-family: FontAwesome;
@@ -109,7 +109,7 @@ div.menu li a:hover {
 					text-transform: none !important;
 				}
 
-				#menu ul a.opener:before, #menu ul span.opener:before {
+				div.menu ul a.opener:before, div.menu ul span.opener:before {
 					-moz-transition: color 0.2s ease-in-out, -moz-transform 0.2s ease-in-out;
 					-webkit-transition: color 0.2s ease-in-out, -webkit-transform 0.2s ease-in-out;
 					-ms-transition: color 0.2s ease-in-out, -ms-transform 0.2s ease-in-out;
@@ -120,44 +120,44 @@ div.menu li a:hover {
 					right: 0;
 				}
 
-				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
+				div.menu ul a.opener:hover:before, div.menu ul span.opener:hover:before {
 					color: #f56a6a;
 				}
 
-				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
+				div.menu ul a.opener.active + ul, div.menu ul span.opener.active + ul {
 					display: block;
 				}
 
-				#menu ul a.opener.active:before, #menu ul span.opener.active:before {
+				div.menu ul a.opener.active:before, div.menu ul span.opener.active:before {
 					-moz-transform: rotate(-180deg);
 					-webkit-transform: rotate(-180deg);
 					-ms-transform: rotate(-180deg);
 					transform: rotate(-180deg);
 				}
 
-	#menu > ul > li {
+	div.menu > ul > li {
 		border-top: solid 1px rgba(210, 215, 217, 0.75);
 		margin: 0.5em 0 0 0;
 		padding: 0.5em 0 0 0;
 	}
 
-		#menu > ul > li > ul {
+		div.menu > ul > li > ul {
 			color: #9fa3a6;
 			display: none;
 			margin: 0.5em 0 1.5em 0;
 			padding-left: 1em;
 		}
 
-			#menu > ul > li > ul a, #menu > ul > li > ul span {
+			div.menu > ul > li > ul a, div.menu > ul > li > ul span {
 				font-size: 0.8em;
 			}
 
-			#menu > ul > li > ul > li {
+			div.menu > ul > li > ul > li {
 				margin: 0.125em 0 0 0;
 				padding: 0.125em 0 0 0;
 			}
 
-		#menu > ul > li:first-child {
+		div.menu > ul > li:first-child {
 			border-top: 0;
 			margin-top: 0;
 			padding-top: 0;
