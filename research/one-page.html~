@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 14:04 -->
+<!-- 2024-02-02 Fri 19:31 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>&lrm;</title>
+<title>Venkatesh Research Activities and Interests</title>
 <meta name="generator" content="Org mode">
+<meta name="author" content="Venkatesh Choppella Venkatesh Choppella">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -190,6 +191,8 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
+<link rel="stylesheet" type="text/css" href="../style/css/main.css" />
+<link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -239,34 +242,45 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<pre class="example">
+<h1 class="title">Venkatesh Research Activities and Interests</h1>
+<ul class="org-ul">
+<li>Programming Language Design and Implementation</li>
+
+<li>Formal Specification and Verification</li>
+
+<li>Web Security</li>
+
+<li>S/W Architecture and Design Patterns</li>
+
+<li>Educational Technology</li>
+
+<li>Pedagogy of CS and IT Education</li>
+</ul>
 
 
-bio/
-   latex/
-      header.org
-      edu.org
-      emp.org
-      visiting-appt.org
-      recent-papers.org
-      past-papers.org
-      recent-talks.org
-      past-talks.org
+<ul class="org-ul">
+<li><b>Programming Languages</b>: Type systems, program
+transformations.</li>
 
-      patents.org
-      awards.org
-      grants.org
-      consulting.org
+<li><b>Specification and Verification of s/w systems</b>:
+Model Checking and Theorem Proving techniques.</li>
 
-      recent-prof-service.org
-      past-prof-service.org
-      personal-details.org 
+<li><b>Web Security</b> : Modeling Browser security using the
+Alloy Model Checker.</li>
 
-   html/
-</pre>
+<li><b>S/W Architecture for Distributed and Concurrent
+Systems</b> : Reactive Systems, Adaptive control.</li>
+
+<li><b>S/W Engg. for Educational Technology</b>: Virtual Labs
+design and development</li>
+
+<li><b>Pedagogy and CS Education</b>:  Principles of Programming,
+Algorithm and Game Design</li>
+</ul>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2024-02-02 Fri 14:04</p>
+<p class="author">Author: Venkatesh Choppella Venkatesh Choppella</p>
+<p class="date">Created: 2024-02-02 Fri 19:31</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

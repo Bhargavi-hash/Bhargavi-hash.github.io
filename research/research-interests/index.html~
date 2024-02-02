@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 14:04 -->
+<!-- 2024-02-02 Fri 19:31 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Venkatesh Choppella:  Research Interests</title>
 <meta name="generator" content="Org mode">
+<meta name="author" content="Bhargavi">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -244,46 +245,46 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org09aa270">1. Background</a>
+<li><a href="#orgc80ff30">1. Background</a>
 <ul>
-<li><a href="#org8beb4af">1.1. Degrees and Pedigree</a></li>
-<li><a href="#org242ac43">1.2. Industry</a></li>
-<li><a href="#org593f17e">1.3. Research Positions</a></li>
-<li><a href="#orgbf9f8c1">1.4. Information Technology</a></li>
+<li><a href="#orgee8956b">1.1. Degrees and Pedigree</a></li>
+<li><a href="#org9438efd">1.2. Industry</a></li>
+<li><a href="#orgb3660e5">1.3. Research Positions</a></li>
+<li><a href="#org25a6eba">1.4. Information Technology</a></li>
 </ul>
 </li>
-<li><a href="#org54d43c8">2. Capsule Research Interests</a></li>
-<li><a href="#org319d0d5">3. Current Research Interests</a>
+<li><a href="#orga2317bd">2. Capsule Research Interests</a></li>
+<li><a href="#org27d370e">3. Current Research Interests</a>
 <ul>
-<li><a href="#org256bf4a">3.1. Computer Science</a></li>
-<li><a href="#org4fcd62b">3.2. Software Engineering</a>
+<li><a href="#org182a56a">3.1. Computer Science</a></li>
+<li><a href="#org92121f5">3.2. Software Engineering</a>
 <ul>
-<li><a href="#orga4e40ef">3.2.1. HCI</a></li>
-<li><a href="#orgb3debb0">3.2.2. Web Security</a></li>
-<li><a href="#orgb525c69">3.2.3. Component verification in embedded real time systems</a></li>
-<li><a href="#org995b59d">3.2.4. Workflow systems</a></li>
+<li><a href="#org3be8c45">3.2.1. HCI</a></li>
+<li><a href="#orgc7a559d">3.2.2. Web Security</a></li>
+<li><a href="#orge61badf">3.2.3. Component verification in embedded real time systems</a></li>
+<li><a href="#org1e173e3">3.2.4. Workflow systems</a></li>
 </ul>
 </li>
-<li><a href="#org5843778">3.3. Technology</a>
+<li><a href="#orga07efe1">3.3. Technology</a>
 <ul>
-<li><a href="#org3c42656">3.3.1. Educational Technologies</a></li>
-<li><a href="#org3148770">3.3.2. Web Accessibility</a></li>
-<li><a href="#org9208b4c">3.3.3. Virtual Lab for Hindustani Classical Music</a></li>
+<li><a href="#org9139120">3.3.1. Educational Technologies</a></li>
+<li><a href="#org5436942">3.3.2. Web Accessibility</a></li>
+<li><a href="#org99e4ccc">3.3.3. Virtual Lab for Hindustani Classical Music</a></li>
 </ul>
 </li>
-<li><a href="#org12ad995">3.4. Pedagogy</a></li>
+<li><a href="#org5827b69">3.4. Pedagogy</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org09aa270" class="outline-2">
-<h2 id="org09aa270"><span class="section-number-2">1</span> Background</h2>
+<div id="outline-container-orgc80ff30" class="outline-2">
+<h2 id="orgc80ff30"><span class="section-number-2">1</span> Background</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org8beb4af" class="outline-3">
-<h3 id="org8beb4af"><span class="section-number-3">1.1</span> Degrees and Pedigree</h3>
+<div id="outline-container-orgee8956b" class="outline-3">
+<h3 id="orgee8956b"><span class="section-number-3">1.1</span> Degrees and Pedigree</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 A BTech in CSE from IITK, MTech from IITM and a PhD in CSE from
@@ -306,8 +307,8 @@ static type systems and formal verification.
 </div>
 </div>
 
-<div id="outline-container-org242ac43" class="outline-3">
-<h3 id="org242ac43"><span class="section-number-3">1.2</span> Industry</h3>
+<div id="outline-container-org9438efd" class="outline-3">
+<h3 id="org9438efd"><span class="section-number-3">1.2</span> Industry</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 I've done a few stints in the Industry.   Hands on with research
@@ -331,8 +332,8 @@ product division and worked with their forms-based products.</dd>
 </div>
 </div>
 
-<div id="outline-container-org593f17e" class="outline-3">
-<h3 id="org593f17e"><span class="section-number-3">1.3</span> Research Positions</h3>
+<div id="outline-container-orgb3660e5" class="outline-3">
+<h3 id="orgb3660e5"><span class="section-number-3">1.3</span> Research Positions</h3>
 <div class="outline-text-3" id="text-1-3">
 <p>
 After my PhD I did switched to compliers for high performance
@@ -344,8 +345,8 @@ doing ab initio quantum chemistry.
 </div>
 </div>
 
-<div id="outline-container-orgbf9f8c1" class="outline-3">
-<h3 id="orgbf9f8c1"><span class="section-number-3">1.4</span> Information Technology</h3>
+<div id="outline-container-org25a6eba" class="outline-3">
+<h3 id="org25a6eba"><span class="section-number-3">1.4</span> Information Technology</h3>
 <div class="outline-text-3" id="text-1-4">
 <p>
 In 2003 I returned to India (IIITMK Thiruvananthapuram) to switch to
@@ -372,8 +373,8 @@ at abeyance.
 </div>
 
 
-<div id="outline-container-org54d43c8" class="outline-2">
-<h2 id="org54d43c8"><span class="section-number-2">2</span> Capsule Research Interests</h2>
+<div id="outline-container-orga2317bd" class="outline-2">
+<h2 id="orga2317bd"><span class="section-number-2">2</span> Capsule Research Interests</h2>
 <div class="outline-text-2" id="text-2">
 <dl class="org-dl">
 <dt>Programming Languages</dt><dd>Type systems, Program Transformation,
@@ -399,12 +400,12 @@ deployment.</dd>
 </div>
 
 
-<div id="outline-container-org319d0d5" class="outline-2">
-<h2 id="org319d0d5"><span class="section-number-2">3</span> Current Research Interests</h2>
+<div id="outline-container-org27d370e" class="outline-2">
+<h2 id="org27d370e"><span class="section-number-2">3</span> Current Research Interests</h2>
 <div class="outline-text-2" id="text-3">
 </div>
-<div id="outline-container-org256bf4a" class="outline-3">
-<h3 id="org256bf4a"><span class="section-number-3">3.1</span> Computer Science</h3>
+<div id="outline-container-org182a56a" class="outline-3">
+<h3 id="org182a56a"><span class="section-number-3">3.1</span> Computer Science</h3>
 <div class="outline-text-3" id="text-3-1">
 <p>
 In computer science, my main interest has centred around the study of
@@ -446,8 +447,8 @@ Education (T4E 2012), and in E-governance
 </div>
 
 
-<div id="outline-container-org4fcd62b" class="outline-3">
-<h3 id="org4fcd62b"><span class="section-number-3">3.2</span> Software Engineering</h3>
+<div id="outline-container-org92121f5" class="outline-3">
+<h3 id="org92121f5"><span class="section-number-3">3.2</span> Software Engineering</h3>
 <div class="outline-text-3" id="text-3-2">
 <p>
 Formal Methods for the specification and development of software.
@@ -455,28 +456,28 @@ Understanding systems and processes.
 </p>
 </div>
 
-<div id="outline-container-orga4e40ef" class="outline-4">
-<h4 id="orga4e40ef"><span class="section-number-4">3.2.1</span> HCI</h4>
+<div id="outline-container-org3be8c45" class="outline-4">
+<h4 id="org3be8c45"><span class="section-number-4">3.2.1</span> HCI</h4>
 </div>
 
-<div id="outline-container-orgb3debb0" class="outline-4">
-<h4 id="orgb3debb0"><span class="section-number-4">3.2.2</span> Web Security</h4>
+<div id="outline-container-orgc7a559d" class="outline-4">
+<h4 id="orgc7a559d"><span class="section-number-4">3.2.2</span> Web Security</h4>
 </div>
 
-<div id="outline-container-orgb525c69" class="outline-4">
-<h4 id="orgb525c69"><span class="section-number-4">3.2.3</span> Component verification in embedded real time systems</h4>
+<div id="outline-container-orge61badf" class="outline-4">
+<h4 id="orge61badf"><span class="section-number-4">3.2.3</span> Component verification in embedded real time systems</h4>
 </div>
-<div id="outline-container-org995b59d" class="outline-4">
-<h4 id="org995b59d"><span class="section-number-4">3.2.4</span> Workflow systems</h4>
+<div id="outline-container-org1e173e3" class="outline-4">
+<h4 id="org1e173e3"><span class="section-number-4">3.2.4</span> Workflow systems</h4>
 </div>
 </div>
 
-<div id="outline-container-org5843778" class="outline-3">
-<h3 id="org5843778"><span class="section-number-3">3.3</span> Technology</h3>
+<div id="outline-container-orga07efe1" class="outline-3">
+<h3 id="orga07efe1"><span class="section-number-3">3.3</span> Technology</h3>
 <div class="outline-text-3" id="text-3-3">
 </div>
-<div id="outline-container-org3c42656" class="outline-4">
-<h4 id="org3c42656"><span class="section-number-4">3.3.1</span> Educational Technologies</h4>
+<div id="outline-container-org9139120" class="outline-4">
+<h4 id="org9139120"><span class="section-number-4">3.3.1</span> Educational Technologies</h4>
 <div class="outline-text-4" id="text-3-3-1">
 <p>
 Development and Engineering of Virtual Labs.  Evangelizing Open Source
@@ -485,12 +486,12 @@ technologies, specially Emacs, Org-mode
 </div>
 </div>
 
-<div id="outline-container-org3148770" class="outline-4">
-<h4 id="org3148770"><span class="section-number-4">3.3.2</span> Web Accessibility</h4>
+<div id="outline-container-org5436942" class="outline-4">
+<h4 id="org5436942"><span class="section-number-4">3.3.2</span> Web Accessibility</h4>
 </div>
 
-<div id="outline-container-org9208b4c" class="outline-4">
-<h4 id="org9208b4c"><span class="section-number-4">3.3.3</span> Virtual Lab for Hindustani Classical Music</h4>
+<div id="outline-container-org99e4ccc" class="outline-4">
+<h4 id="org99e4ccc"><span class="section-number-4">3.3.3</span> Virtual Lab for Hindustani Classical Music</h4>
 <div class="outline-text-4" id="text-3-3-3">
 <p>
 Technologies to support  pedagogy for Hindustani Classical Music
@@ -499,8 +500,8 @@ Technologies to support  pedagogy for Hindustani Classical Music
 </div>
 </div>
 
-<div id="outline-container-org12ad995" class="outline-3">
-<h3 id="org12ad995"><span class="section-number-3">3.4</span> Pedagogy</h3>
+<div id="outline-container-org5827b69" class="outline-3">
+<h3 id="org5827b69"><span class="section-number-3">3.4</span> Pedagogy</h3>
 <div class="outline-text-3" id="text-3-4">
 <ul class="org-ul">
 <li>Principles of Programming</li>
@@ -516,7 +517,8 @@ Technologies to support  pedagogy for Hindustani Classical Music
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2024-02-02 Fri 14:04</p>
+<p class="author">Author: Bhargavi</p>
+<p class="date">Created: 2024-02-02 Fri 19:31</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

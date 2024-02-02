@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 14:04 -->
+<!-- 2024-02-02 Fri 19:31 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Venkatesh Choppella Research</title>
+<title>Venkatesh Choppella Teaching</title>
 <meta name="generator" content="Org mode">
-<meta name="author" content="Venkatesh Choppella Venkatesh Choppella">
+<meta name="author" content="Venkatesh Choppella">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -239,34 +239,12 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        displayAlign: "center",
-        displayIndent: "0em",
-
-        "HTML-CSS": { scale: 100,
-                        linebreaks: { automatic: "false" },
-                        webFont: "TeX"
-                       },
-        SVG: {scale: 100,
-              linebreaks: { automatic: "false" },
-              font: "TeX"},
-        NativeMML: {scale: 100},
-        TeX: { equationNumbers: {autoNumber: "AMS"},
-               MultLineWidth: "85%",
-               TagSide: "right",
-               TagIndent: ".8em"
-             }
-});
-</script>
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<h1 class="title">Venkatesh Choppella Research</h1>
+<h1 class="title">Venkatesh Choppella Teaching</h1>
 
-<div id="outline-container-orgba990a0" class="outline-2 menu">
+<div id="outline-container-org67b1f8e" class="outline-2 menu">
 <h2 id="menu">Menu</h2>
 <div class="outline-text-2" id="text-menu">
 <ul class="org-ul">
@@ -280,227 +258,137 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org1becb05" class="outline-2 sub-menu">
-<h2 id="sub-menu-research">Submenu</h2>
-<div class="outline-text-2" id="text-sub-menu-research">
-<ul class="org-ul">
-<li><a href="#areas">research areas</a></li>
-<li><a href="#students">students</a></li>
-<li><a href="#projects">funded projects</a></li>
-</ul>
 
-<ul class="org-ul">
-<li><a href="#biblio">bibliography</a></li>
-</ul>
-</div>
-</div>
 
-<div id="outline-container-org5f2cb31" class="outline-2 main">
-<h2 id="main">Main</h2>
+<div id="outline-container-org84e7b0b" class="outline-2 main">
+<h2 id="main">Teaching</h2>
 <div class="outline-text-2" id="text-main">
 </div>
 </div>
 
-<div id="outline-container-org95d0e33" class="outline-2 areas">
-<h2 id="areas">Areas of research</h2>
-<div class="outline-text-2" id="text-areas">
-<dl class="org-dl">
-<dt>Software Engineering and Formal Methods</dt><dd>Concurrency
-control \cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}, Distributed
-Model Checking\cite{Singla-et-al-2016}, Real Time
-Systems\cite{Adimoolam-Choppella-2013}, Software and Systems
-Engineering\cite{2019-isec-chaudhuri-et-al, 2018-isec-banerjee-et-al,2018-incose-natarajan-et-al},
-Human Computer
-Interaction\cite{zade-choppella-ihci-2012,zade-et-al-chi-2014},
-Workflows
-\cite{dinesh-choppella-iceg-2010,Choppella-icdcit-2011,goel-choppella-t4e-2012,Goel-Choppella-icegov-2013},
-Modeling of Web Services\cite{WSCL-2002}, Data
-Modeling\cite{choppella-sengupta-robertson-johnson-tr-2006,choppella-et-al-afm07}
-and Visual
-modeling\cite{Choppella-Pulijala-ModSym-2015} and
-Software
-Architectures\cite{brahmajosyula-choppella-wambse-2011,brahmajosyula-choppella-journal-2011}. Formal
-Methods for
-VLSI\cite{Rath-Choppella-Johnson-1995,Bose-Tuna-Choppella-FMCAD-1996}</dd>
+<div id="outline-container-orgc5ac14c" class="outline-2 sub-menu">
+<h2 id="sub-menu-research">Submenu</h2>
+<div class="outline-text-2" id="text-sub-menu-research">
+<ul class="org-ul">
+<li><a href="#orgc3c6463">monsoon 2019</a></li>
 
-<dt>Web Accessibility </dt><dd>Renarration and Semantic
-Web\cite{Aggarwal-2012,Dinesh-2012-AFR-2207016-2207030,Dinesh-2012-ATR-2207016-2207038,Gollapudi-Choppella-t4e-2013,Prasad-2014-ONA-2596695-2596711,Prasad-et-al-isec-2017,2017-iske-gollapudi-et-al},
-\cite{DBLP-conf-seke-SanagavarapuGCR17,2018-icdcit-Prasad-et-al,2018-isec-prasad-et-al},</dd>
+<li><a href="#org8588535">past courses</a></li>
 
-<dt>Web Security</dt><dd>Browser-based security policies\cite{Alloy-Corp-Tech-2013,Telikicherla-Choppella-Bezawada-ICISS-2014,Telikicherla-2014-EDS-2593761-2593764,agrawall-et-al-isec-2017,telikicherla-et-al-icissp-2017,2017-ICISS-Agrawall-et-al}</dd>
-
-<dt>Applications of ICT</dt><dd>E-Governance\cite{choppella-srivathsan-icegov-2009}.</dd>
-
-<dt>Educational Technology and Computing Pedagogy</dt><dd>Virtual
-Labs\cite{2018-icalt-kumar-et-al, 2018-icalt-swain-et-al, bandi-et-al-t4e-2011,khot-choppella-t4e-2011,choppella-et-al-t4e-2011},\cite{malini-et-al-t4e-2012,Chatterjee-et-al-t4e-2013,2014-t4e-choudhary-et-al,2014-t4e-agarwal-et-al,Kelkar-et-al-icalt-2015,Ahuja-et-al-icalt-2015},
-Authoring tools and
-environments\cite{naidu-et-al-t4e-2010,Choppella-t4e-tutorial-2010,khare-et-al-t4e-2012},
-Ontologies\cite{mavalankar-et-al-t4e-2015}.  Functional
-Programming\cite{choppella-et-al-t4e-2012,Choppella-et-al-2016},
-Algorithms and Discrete Dynamical
-Systems\cite{Manjula-et-al-t4e-2013}.</dd>
-</dl>
-
-
-<dl class="org-dl">
-<dt>Compilers and Programming Languages</dt><dd>Evaluation of RMI
-protocols\cite{Govindaraju-et-al-Supercomputing-2000},
-Algorithm Synthesis from Domain Specific
-Languages\cite{Krishnan-et-al-HiPC-2003,Bibireata-et-al-LCPC-2004,Krishnan-et-al-IPDPS-2004,Baumgartner-ieee-2005,Auer-MolPhysics-2006,Hartono-et-al-iccs-2006,krishnan-et-al-jpdc-2006}.
-Aspect-Oriented Programming\cite{1999-aop-patent}.
-Term Unification\cite{Choppella-Haynes-CADE-2003,Choppella-Haynes-IC-2005},
-Type Inference\cite{Choppella-Haynes-1995,Choppella-thesis-02,Choppella-IFL-2003}.</dd>
-</dl>
+<li><a href="#orge5f9bb6">short courses/workshops</a></li>
+</ul>
 </div>
 </div>
 
-<div id="outline-container-orgf298fd1" class="outline-2 students">
-<h2 id="students">Students</h2>
-<div class="outline-text-2" id="text-students">
-</div>
-<div id="outline-container-org4c82b89" class="outline-3">
-<h3 id="org4c82b89">Current students</h3>
-<div class="outline-text-3" id="text-org4c82b89">
-<dl class="org-dl">
-<dt>Amar Banerjee (PhD) </dt><dd>Capability composition for
-robotics and cyber-physical systems engineering.</dd>
 
-<dt>Mrityunjay Kumar (PhD)</dt><dd>Model Based design and
-implementation of Virtual Lab Experiments</dd>
 
-<dt>Sai Gollapudi (PhD)</dt><dd>Semantic Style Sheets and Renarration</dd>
-
-<dt>Soumya Maddala (MS by research)</dt><dd>Ontology services for
-web accessibility</dd>
-
-<dt>Adhish Singla (MS Dual Degree)</dt><dd>Distributed Model Checking.  Supported by Hitachi India.
-(Co-advisor with Prof. Suresh Purini)</dd>
-
-<dt>Arjun Sanjeev (BTech/Dual Degree)</dt><dd>Modular Control of
-concurrent processes.  Co-advisor: Prof. K Viswanath.</dd>
-
-<dt>Krutam  Hathi (BTech/Dual Degree)</dt><dd>Pedagogy-based
-Analytics for virtual labs</dd>
-</dl>
+<div id="outline-container-orgc3c6463" class="outline-2">
+<h2 id="orgc3c6463">Monsoon 2019</h2>
+<div class="outline-text-2" id="text-orgc3c6463">
+<ul class="org-ul">
+<li><a href="http://faculty.iiit.ac.in/~vxc/afl/">Automata Theory</a></li>
+<li><a href="http://faculty.iiit.ac.in/~vxc/popl">Principles of Programming Languages</a></li>
+</ul>
 </div>
 </div>
 
-<div id="outline-container-orgf2b30db" class="outline-3">
-<h3 id="orgf2b30db">Past research students</h3>
-<div class="outline-text-3" id="text-orgf2b30db">
+
+<div id="outline-container-org8588535" class="outline-2">
+<h2 id="org8588535">Past courses</h2>
+<div class="outline-text-2" id="text-org8588535">
 <dl class="org-dl">
-<dt>Akaash Agarwall (MS by research, Apr 2018)</dt><dd><ul class="org-ul">
-<li>Thesis title: Application,  Modelling and
-Implementation of CORP</li>
-<li>Current affiliation: Facebook, California</li>
-</ul></dd>
+<dt>Principles of Programming Languages</dt><dd>Monsoon 2018,
+2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009.</dd>
+
+<dt>Interpreters and Compilers</dt><dd>Spring 2004, IIITM-K</dd>
+
+<dt>Software Foundations</dt><dd>Spring 2016, 2015 (co-instructor with Prof. Suresh Purini).</dd>
+
+<dt>Semantics of Programming Languages</dt><dd>Spring 2014, 2013</dd>
+
+<dt>Topics in Programming Languages</dt><dd>Spring 2012</dd>
+
+<dt>IT Workshop 2</dt><dd>Spring 2017, 2011, 2010 at IIITH.</dd>
+
+<dt>Web Technologies (all at IIITM-K)</dt><dd>Fall 2008 (<a href="./courses/ay-2008-2009-sem1-webtech/ay-2008-2009-sem1-webtech-feedback.pdf">feedback</a>), 2007(<a href="./courses/ay-2007-2008-sem1-webtech/course-feedback.pdf">course feedback</a> | <a href="./courses/ay-2007-2008-sem1-webtech/instr-feedback.pdf">instructor feedback</a>),
+    2006, (<a href="./courses/ay-2006-2007-sem1-webtech/course-feedback.pdf">course feedback</a> |  <a href="./courses/ay-2006-2007-sem1-webtech/instr-feedback.pdf">instructor feedback</a> | <a href="./courses/ay-2006-2007-sem1-webtech/report.html">course report by instructor</a>),
+Winter 2003.</dd>
+
+<dt>Advanced Web Technologies</dt><dd>Spring 2004, IIITM-K</dd>
+
+<dt>Advanced Problem Solving</dt><dd><a href="http://pascal.iiit.ac.in/~venkatesh.choppella/aps">Monsoon 2018</a></dd>
+
+<dt>Computer Problem Solving</dt><dd>Monsoon 2015, IIIT Hyderabad (<a href="./courses/2015-monsoon-iiit-cps/feedback.pdf">feedback</a>).</dd>
+
+<dt>Programming Application Software</dt><dd>Fall 2009, IIIT Bangalore</dd>
 </dl>
+</div>
 
 
+<div id="outline-container-orgd51adaf" class="outline-3">
+<h3 id="orgd51adaf">Other courses</h3>
+<div class="outline-text-3" id="text-orgd51adaf">
 <dl class="org-dl">
-<dt>Krishna Chaitanya (MS by research, May 2016)</dt><dd><ul class="org-ul">
-<li>Thesis title:  <a href="http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/407">Mitigating Web-borne Security Threats by Enhancing Browser Security Policies</a></li>
-<li>Current affiliation:  Microsoft Hyderabad</li>
-</ul></dd>
-</dl>
+<dt>Data Structures and Algorithms</dt><dd>Spring 2009, IIITM Kerala</dd>
 
+<dt>Computational Biology</dt><dd>Fall 2007, (co-instructor), IIITM-K</dd>
 
-<dl class="org-dl">
-<dt>Ankur Goel (MS by research, Apr 2016)</dt><dd><ul class="org-ul">
-<li>Thesis title: <a href="http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/412">Specification and Modelling of Workflow Management Systems with State Based Access Control</a></li>
-<li>Current Affiliation: Startup in Hyderabad</li>
-</ul></dd>
-</dl>
+<dt>Scientific Computing</dt><dd>Fall 2006 (co-instructor), IIITM-K</dd>
 
+<dt>Database Systems</dt><dd>Spring 2006, 2005 (co-instructor), IIITM-K</dd>
 
-<dl class="org-dl">
-<dt>Himanshu Zade (MS by research, Apr 2015)</dt><dd><ul class="org-ul">
-<li>Thesis title:  <a href="http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/336">Evolution of Mental Models of Interactive Machines: A Formal Approach</a></li>
-<li>Current affiliation: Univ of Washington PhD programme</li>
-</ul></dd>
-</dl>
-
-
-<dl class="org-dl">
-<dt>Santosh Aravind Adimoolam (MS by research Apr 2014)</dt><dd><ul class="org-ul">
-<li>Thesis title:
-<a href="http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/300">Automata based abstraction of interval assumptions and bounded input linear systems for verification and controller synthesis</a></li>
-<li>Co-advisor:  Prof. K Viswanath</li>
-<li>Financial Support:  Siemens R&amp;D India.</li>
-<li>Current affiliation: VERIMAG, France.</li>
-</ul></dd>
-</dl>
-
-
-<dl class="org-dl">
-<dt>Deepti Aggarwal (MS by research, Nov 2013)</dt><dd><ul class="org-ul">
-<li>Thesis title: <a href="http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/232">Exploring Crowdsourcing to PersonalizeWeb Experiences</a></li>
-<li>Co-advisor:  Prof. Vasudeva Varma</li>
-<li>Current affiliation: Univ of Melbourne</li>
-</ul></dd>
+<dt>Mathematical Foundations of Information Technology</dt><dd>Winter 2004, IIITM-K</dd>
 </dl>
 </div>
 </div>
 </div>
 
-<div id="outline-container-orgdb36a40" class="outline-2 projects">
-<h2 id="projects">Funded Projects</h2>
-<div class="outline-text-2" id="text-projects">
-<dl class="org-dl">
-<dt>1. Virtual Labs, Phase II and III (co-PI)</dt><dd>2016-2020. Sponsor: MHRD, Govt. of India.  Consortium
-partners: IITs at Bombay Delhi, Guwahati Kanpur,
-Kharagpur, Roorkee, Amrita University, COE Pune,
-Dayalbagh University, NIT Surathkal.  Total Budget:
-Rs. 100 Crores for 5 years.</dd>
 
-<dt>(no term)</dt><dd>2. State variable approach to the model-driven
-development of software for reactive systems (PI) ::
-2011-2013.  Sponsor: Siemens India, Bangalore.  Budget:
-Rs. 14 Lakhs.</dd>
+<div id="outline-container-orge5f9bb6" class="outline-2">
+<h2 id="orge5f9bb6">Short courses/workshops</h2>
+<div class="outline-text-2" id="text-orge5f9bb6">
+<dl class="org-dl">
+<dt>Git Version Control</dt><dd>3 day short course July
+24th&#x2013;26th, 2017 at DRDO Hyderabad.</dd>
+
+<dt>Virtual Labs on the College Cloud</dt><dd>2
+day workshop for college teachers  May 9th&#x2013;10th 2017
+at JUIT, Waknaghat, Himachal Pradesh.</dd>
+
+<dt>Building a web application from Ground Up to the Cloud</dt><dd>3
+week short course May 16th-Jun 4th 2016 for Virtual
+Labs summer interns at IIIT-H.</dd>
+
+<dt>Dynamical Systems, Automata and Functional Programming</dt><dd>2
+day short course at Goa University Academic Staff
+College (ASC) for college teachers.  13-14 Jan, 2014,
+Goa.</dd>
+
+<dt>Mapcode and Computer Problem Solving</dt><dd>3 day short
+course for College Teachers at VNR Vignan Jyothi
+College, Hyderabad.  May 27-29, 2013, Hyderabad.
+(co-instructor with Prof. KV Nori and Prof. K
+Swath).</dd>
+
+<dt>Practical Program Verification</dt><dd>4 day short course
+under the Tata Excellence in Computer Science (TECS)
+Programme, TCS Hyderabad, 14-18th February, 2008
+(Session on Day 1 on "Verification in the PVS theorem
+prover".)</dd>
 </dl>
 
 
-
 <dl class="org-dl">
-<dt>3. Distributed Model Checking</dt><dd>(Co-PI) 2014-2016.
-Sponsor: Hitachi India Limited.  Budget: 15 Lakhs.</dd>
+<dt>Principles of Programming for the Web</dt><dd>11 day short
+course for Andhra Pradesh College Teachers under the
+Govt. India TEQIP Project organized by Enhance Edu.
+May 3-13, 2010, IIIT Hyderabad.</dd>
 </dl>
-
-
-<dl class="org-dl">
-<dt>4. Virtual Labs Phase I</dt><dd>2010-2014. Sponsor: Virtual
-Labs consortium under the Virtual Labs main phase
-project.  Budget: 3.3 Cr.</dd>
-
-<dt>(no term)</dt><dd>5. European Commission Erasmus Mundus External
-Cooperation Window (co-PI) :: European Research and
-Educational Collaboration with Asia Project for Academic
-Mobility 2008-2009. <a href="http://www.mrtc.mdh.se/eureca/">http://www.mrtc.mdh.se/eureca/</a>.
-Institute Coordinator for IIITMK.  Budget: 10,000 Euro.</dd>
-
-<dt>6. ISEA (PI)</dt><dd>Ministry of Information Technology,
-Government of India.  Information
-Security Education and Awareness (ISEA)
-2006-2009.  Principal Investigator at
-Participating Institution IIITM-K.
-Rs. 3L per annum.</dd>
-
-<dt>7. Government of Kerala (co-PI)</dt><dd>Police Portal for
-Community Interaction 2004-2005.  Budget Rs. 2.9L
-Co-investigator.</dd>
-</dl>
-</div>
-</div>
-
-<div id="outline-container-orge65e5ff" class="outline-2 biblio">
-<h2 id="biblio">Bibliography</h2>
-<div class="outline-text-2" id="text-biblio">
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Venkatesh Choppella Venkatesh Choppella</p>
-<p class="date">Created: 2024-02-02 Fri 14:04</p>
+<p class="author">Author: Venkatesh Choppella</p>
+<p class="date">Created: 2024-02-02 Fri 19:31</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

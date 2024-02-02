@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 14:04 -->
+<!-- 2024-02-02 Fri 19:31 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>&lrm;</title>
 <meta name="generator" content="Org mode">
+<meta name="author" content="Bhargavi">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -239,34 +240,59 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<pre class="example">
+<p>
+Thanks to all
+who liked the poem,
+I'd love to write more.
+I hope I can do 'em.
+</p>
+
+<p>
+Just a mish and quite a mash.
+Bits of Geisel, a pinch of Nash.
+No rhyme, and not a reason.
+It was only to bring Levity,
+to this morbid season.
+</p>
+
+<p>
+Thanks, Kamal!
+For that sporty duel.
+I Promise!  No more of this kitschy stuff!
+You've probably already had enough!
+</p>
+
+<p>
+But before I sign off
+I'm sure you agree.
+It isn't the degree,
+or a lucrative position.
+What our students need is
+an aesthetic disposition.
+</p>
+
+<p>
+Let them learn that 
+whatever they build
+is a work of art.
+To create beauty, 
+they need to put 
+not just their mind, 
+but also their heart. 
+</p>
 
 
-bio/
-   latex/
-      header.org
-      edu.org
-      emp.org
-      visiting-appt.org
-      recent-papers.org
-      past-papers.org
-      recent-talks.org
-      past-talks.org
-
-      patents.org
-      awards.org
-      grants.org
-      consulting.org
-
-      recent-prof-service.org
-      past-prof-service.org
-      personal-details.org 
-
-   html/
-</pre>
+<p>
+Right now though, while we are missing them,
+a strange world, and stranger times, await them,
+Fear and doubt threaten to negate them.
+But they will come around, succeed, and lead.
+They always have, when there is a need.
+</p>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2024-02-02 Fri 14:04</p>
+<p class="author">Author: Bhargavi</p>
+<p class="date">Created: 2024-02-02 Fri 19:31</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 14:04 -->
+<!-- 2024-02-02 Fri 19:31 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>&lrm;</title>
 <meta name="generator" content="Org mode">
+<meta name="author" content="Bhargavi">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -236,37 +237,56 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
-<div id="content">
-<pre class="example">
-
-
-bio/
-   latex/
-      header.org
-      edu.org
-      emp.org
-      visiting-appt.org
-      recent-papers.org
-      past-papers.org
-      recent-talks.org
-      past-talks.org
-
-      patents.org
-      awards.org
-      grants.org
-      consulting.org
-
-      recent-prof-service.org
-      past-prof-service.org
-      personal-details.org 
-
-   html/
-</pre>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="index.html"> UP </a>
+ |
+ <a accesskey="H" href=""> HOME </a>
+</div><div id="content">
+<p>
+%% \input{colordefs}
+</p>
+<p>
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+</p>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2024-02-02 Fri 14:04</p>
+<p class="author">Author: Bhargavi</p>
+<p class="date">Created: 2024-02-02 Fri 19:31</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

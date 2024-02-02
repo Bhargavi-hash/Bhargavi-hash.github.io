@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 14:04 -->
+<!-- 2024-02-02 Fri 19:31 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>&lrm;</title>
+<title>Venkatesh Choppella</title>
 <meta name="generator" content="Org mode">
+<meta name="author" content="Bhargavi">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -238,35 +239,47 @@ for the JavaScript code in this tag.
 </script>
 </head>
 <body>
-<div id="content">
-<pre class="example">
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="index.html"> UP </a>
+ |
+ <a accesskey="H" href=""> HOME </a>
+</div><div id="content">
+<h1 class="title">Venkatesh Choppella</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org930e234">1. Present Position</a></li>
+<li><a href="#orga7856d7">2. Areas of interest</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org930e234" class="outline-2">
+<h2 id="org930e234"><span class="section-number-2">1</span> Present Position</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Associate Professor, International Institute of
+Information Technology, Hyderabad 500032
+</p>
+</div>
+</div>
 
-
-bio/
-   latex/
-      header.org
-      edu.org
-      emp.org
-      visiting-appt.org
-      recent-papers.org
-      past-papers.org
-      recent-talks.org
-      past-talks.org
-
-      patents.org
-      awards.org
-      grants.org
-      consulting.org
-
-      recent-prof-service.org
-      past-prof-service.org
-      personal-details.org 
-
-   html/
-</pre>
+<div id="outline-container-orga7856d7" class="outline-2">
+<h2 id="orga7856d7"><span class="section-number-2">2</span> Areas of interest</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>Research, Development and Engineering of Software Systems</li>
+<li>Formal Methods for Verification of software</li>
+<li>Programming Languages and Compilers</li>
+<li>Web security and Accessibility</li>
+<li>Educational Technologies and Computer Science Education</li>
+</ul>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Created: 2024-02-02 Fri 14:04</p>
+<p class="author">Author: Bhargavi</p>
+<p class="date">Created: 2024-02-02 Fri 19:31</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
