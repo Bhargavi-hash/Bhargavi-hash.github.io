@@ -1,5 +1,5 @@
-#+AUTHOR:    Bhargavi Kurukunda
-#+EMAIL:     kurukunda.bhargavi@gmail.com
+#+AUTHOR:    Venkatesh Choppella
+#+EMAIL:     venkatesh.choppella@iiit.ac.in
 
 #+DESCRIPTION: 
 #+KEYWORDS: 
@@ -16,5 +16,6 @@
 # #+BIND: org-export-html-postamble postamble-string-with-file-last-modification-time
 #+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="../style/css/main.css" />
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
+
 
 
