@@ -1,5 +1,6 @@
-#+AUTHOR:    Venkatesh Choppella
-#+EMAIL:     venkatesh.choppella@iiit.ac.in
+#+AUTHOR:    Kurukunda Bhargavi
+#+EMAIL:     kurukunda.bhargavi@gmail.com
+
 
 #+DESCRIPTION: 
 #+KEYWORDS: 

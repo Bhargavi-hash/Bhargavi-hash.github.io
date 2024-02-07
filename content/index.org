@@ -1,4 +1,4 @@
-#+title:  Venkatesh Choppella
+#+title:  Kurukunda Bhargavi
 #+SETUPFILE: ./org-templates/level-0.org
 
 * Menu
@@ -20,12 +20,19 @@
    :CUSTOM_ID: main
  :END:
 
-#+ATTR_HTML: :alt pic :title venkatesh :align right :width 40% :border-radius 20px
-[[./images/vxc_new.png]]
+#+ATTR_HTML: :alt pic :title bhargavi :align right :width 40% :border-radius 100px
+[[./images/bhargs_dp.jpg]]
 
-*Associate Professor* at the International
-Institute of Information Technology, Hyderabad,
-India.
+** Education
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: heading
+    :CUSTOM_ID:   education
+  :END:
+
+  *B.Tech in CSE* - May, 2024 \\
+  International Institute of Information Technology, Hyderabad, India \\
+  
+
 
 
 ** Interests
@@ -39,12 +46,13 @@ India.
 
 
   -  Software Engineering :: Software Architectures. Formal
-       Methods and Verification.  Web security and
-       accessibility.  
+       Methods and Verification.  
+
+  - Human Computer Interaction :: Observational research. Behavioral research
 
 
   -  Computer Science Education and Technology ::
-    Algodynamics.  [[http://vlab.co.in][Virtual Labs]].
+    [[http://vlab.co.in][Virtual Labs]].
 
 
 * COMMENT [[./fp-poem.org][Functional Programming for no Rhyme or Reason]]
