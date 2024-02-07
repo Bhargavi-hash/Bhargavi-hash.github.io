@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2024-02-02 Fri 19:54 -->
+<!-- 2024-02-07 Wed 11:12 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Venkatesh Choppella Research</title>
 <meta name="generator" content="Org mode">
-<meta name="author" content="Venkatesh Choppella Venkatesh Choppella">
+<meta name="author" content="Kurukunda Bhargavi Venkatesh Choppella">
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -306,7 +306,7 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-areas">
 <dl class="org-dl">
 <dt>Software Engineering and Formal Methods</dt><dd>Concurrency
-control <a href="file:///cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}">file:///cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}</a>, Distributed
+control /cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}, Distributed
 Model Checking\cite{Singla-et-al-2016}, Real Time
 Systems\cite{Adimoolam-Choppella-2013}, Software and Systems
 Engineering\cite{2019-isec-chaudhuri-et-al, 2018-isec-banerjee-et-al,2018-incose-natarajan-et-al},
@@ -499,8 +499,8 @@ Co-investigator.</dd>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Venkatesh Choppella Venkatesh Choppella</p>
-<p class="date">Created: 2024-02-02 Fri 19:54</p>
+<p class="author">Author: Kurukunda Bhargavi Venkatesh Choppella</p>
+<p class="date">Created: 2024-02-07 Wed 11:12</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
